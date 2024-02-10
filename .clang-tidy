@@ -1,0 +1,15 @@
+Checks: >-
+    boost-*,
+    bugprone-*,
+    cert-*,
+    clang-analyzer-*,
+    concurrency-*,
+    cppcoreguidelines-*,
+    hicpp-*,
+    llvm-*,
+    misc-*,
+    modernize-*,
+    openmp-*,
+    performance-*,
+    portability-*,
+    readability-*
